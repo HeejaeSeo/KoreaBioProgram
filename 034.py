@@ -13,6 +13,7 @@ for x in ls :
 
 print(f"MAX : {max_val}")
 print(f"MIN : {min_val}")
+print()
 
 # CASE 2
 min_val2 = min(ls)

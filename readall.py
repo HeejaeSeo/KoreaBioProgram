@@ -54,4 +54,4 @@ if __name__ == "__main__":
     #ret = read_csv(file_name)
     ret = read_tsv(file_name)
     #print(ret)
-    to_json(ret)
+    to_json(ret, "result_readall.json")
